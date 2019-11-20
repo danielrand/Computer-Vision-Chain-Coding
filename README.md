@@ -1,5 +1,5 @@
 # Computer-Vision-Chain-Coding
-Image object edge detection using Chain Code computer vision technique. 
+Image object boundary detection using Chain Code computer vision technique. 
 
 # How to run:
 
